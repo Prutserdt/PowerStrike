@@ -1,2 +1,6 @@
 # PowerStrike
-PowerStrike, realtime registration of power during mma/boxing matches, one hit at a time :-)
+
+# About this Github site
+This Github is a readme about the PowerStrike project.
+
+Placeholder document, will be updated soon. Stay tuned!
