@@ -43,3 +43,4 @@ The real nerds, I mean the devs of this project :-), can get feedback how strike
 🥊 Hit us up!
 
   - Technical questions: [[walter@powerstrike.nl][email]]  ‘mailto:walter@powerstrike.nl’
+  [[mailto:walter@powerstrike.nl][walter@powerstrike.nl]]
