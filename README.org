@@ -44,4 +44,4 @@ The real nerds, i.e. the devs of this project 🤓, can get feedback how strikes
 * 🥊Contact information
 Hit us up please!  [[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
 
-[[powerstrike.nl][powerstrike website]]
+[[https://powerstrike.nl][powerstrike website]]
