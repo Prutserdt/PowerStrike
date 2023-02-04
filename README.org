@@ -48,5 +48,5 @@ Gamification to encourage solo bag training. Before training set goals as intens
 The real nerds, i.e. the devs of this project 🤓, can get feedback how strikes are landed. First knuckles versus the Jack Dempsey power line (middle knuckles).
 
 * 🥊Hit us up please!
-[[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
-[[https://powerstrike.nl][powerstrike website]]
+- [[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
+- [[https://powerstrike.nl][powerstrike website]]
