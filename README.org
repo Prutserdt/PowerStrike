@@ -1,0 +1,63 @@
+#+TITLE: The PowerStrike project
+
+#+begin_src
+ _   _             __ _                         _            __
+| |_| |__   ___   / _(_)_ __   ___    __ _ _ __| |_    ___  / _|
+| __| '_ \ / _ \ | |_| | '_ \ / _ \  / _` | '__| __|  / _ \| |_
+| |_| | | |  __/ |  _| | | | |  __/ | (_| | |  | |_  | (_) |  _|
+ \__|_| |_|\___| |_| |_|_| |_|\___|  \__,_|_|   \__|  \___/|_|
+<<<<<<< HEAD
+
+=======
+ 
+>>>>>>> b4bed82e15edf6fb5f98793893021c3afea6ef85
+  __                                         _     _
+ / _| __ _  ___ ___   _ __  _   _ _ __   ___| |__ (_)_ __   __ _
+| |_ / _` |/ __/ _ \ | '_ \| | | | '_ \ / __| '_ \| | '_ \ / _` |
+|  _| (_| | (_|  __/ | |_) | |_| | | | | (__| | | | | | | | (_| |
+|_|  \__,_|\___\___| | .__/ \__,_|_| |_|\___|_| |_|_|_| |_|\__, |
+                     |_|                                   |___/
+#+end_src
+
+* 🥊Welcome!
+Somehow you reached this site. Contratulations👍. We are developing a system to measure and transmit power output from MMA/boxing gloves. This is very interesting information that is currently not used in striking sports as MMA, boxing and kickboxing. At this moment we are in pre-alpha stage and focussing on a robust way to add pressure sensors to MMA gloves and show live output to a mobile phone with some gamification of course, otherwise it would be too boring.
+
+** 🥊Status of our project
+
+Milestones:
+ - [X] Live measurement of impact with pressure sensor. Arduino setup.
+ - [X] Connecting several pressure sensors.
+ - [X] Adding features for protyping: LCD screen and beeper for output to user.
+ - [X] Addition of gamification. Measure and store maximum power of a striek and send confetti or encouragment by text and sound.
+ - [X] Adding wifi options: connect with mobile to PowerStrike via local WIFI or directly to Access Point of PowerStrike.
+ - [X] Website created on PowerStrike for output via wifi.
+
+Next steps, our TODO list:
+ - [ ] Test the MMA glove with pressure sensors in the dojo. Test the robustness of the MMA gloves and presure connectors and wiring to the controller.
+ - [ ] Miniaturization of the detector/controller hardware.
+ - [ ] This list will grow during development, step by step.
+
+Right now our source code is not open, we might decide later to make it free/libre.
+
+* 🥊PowerStrike use cases
+We see a lot of potential possibilities for our product, not limited to:
+
+** MMA/boxing/kickboxing organizations
+Show the live power output of strikes of fighters during a fight. For instance plotting energy bars of the amount of absorbed strikes and landed strikes per figher. More gamification during live fights will bring in new audiences. All kinds of stats can be plotted and compared.
+
+** Betting outlets
+Imagine the hypothetical world where Tyson Fury will fight Mike Tyson. Which Tyson will drop the biggest bomb? Might be worth a bet :-)
+
+** Martial arts enthousiasts
+Gamification to encourage solo bag training. Before training set goals as intensity and/or power and gamify it. The physical progress can be monitored over time.
+The real nerds, i.e. the devs of this project 🤓, can get feedback how strikes are landed. First knuckles versus the Jack Dempsey power line (middle knuckles).
+
+<<<<<<< HEAD
+* 🥊Hit us up please!
+[[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
+=======
+* 🥊Contact information
+Hit us up please!  [[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
+
+>>>>>>> b4bed82e15edf6fb5f98793893021c3afea6ef85
+[[https://powerstrike.nl][powerstrike website]]
