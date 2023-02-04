@@ -6,11 +6,6 @@
 | __| '_ \ / _ \ | |_| | '_ \ / _ \  / _` | '__| __|  / _ \| |_
 | |_| | | |  __/ |  _| | | | |  __/ | (_| | |  | |_  | (_) |  _|
  \__|_| |_|\___| |_| |_|_| |_|\___|  \__,_|_|   \__|  \___/|_|
-<<<<<<< HEAD
-
-=======
- 
->>>>>>> b4bed82e15edf6fb5f98793893021c3afea6ef85
   __                                         _     _
  / _| __ _  ___ ___   _ __  _   _ _ __   ___| |__ (_)_ __   __ _
 | |_ / _` |/ __/ _ \ | '_ \| | | | '_ \ / __| '_ \| | '_ \ / _` |
@@ -52,12 +47,6 @@ Imagine the hypothetical world where Tyson Fury will fight Mike Tyson. Which Tys
 Gamification to encourage solo bag training. Before training set goals as intensity and/or power and gamify it. The physical progress can be monitored over time.
 The real nerds, i.e. the devs of this project 🤓, can get feedback how strikes are landed. First knuckles versus the Jack Dempsey power line (middle knuckles).
 
-<<<<<<< HEAD
 * 🥊Hit us up please!
 [[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
-=======
-* 🥊Contact information
-Hit us up please!  [[mailto:prutserdt@powerstrike.nl][prutserdt@powerstrike.nl]]
-
->>>>>>> b4bed82e15edf6fb5f98793893021c3afea6ef85
 [[https://powerstrike.nl][powerstrike website]]
