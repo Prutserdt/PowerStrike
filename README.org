@@ -14,6 +14,10 @@
                      |_|                                   |___/
 #+end_src
 
+
+#+CAPTION: powerstrike
+[[https://github.com/Prutserdt/PowerStrike/raw/master/powerstrike.gif]]
+
 * 🥊Welcome!
 Somehow you reached this site. Contratulations👍. We are developing a system to measure and transmit power output from MMA/boxing gloves. This is very interesting information that is currently not used in striking sports as MMA, boxing and kickboxing. At this moment we are in pre-alpha stage and focussing on a robust way to add pressure sensors to MMA gloves and show live output to a mobile phone with some gamification of course, otherwise it would be too boring.
 
