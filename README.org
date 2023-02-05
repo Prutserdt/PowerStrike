@@ -1,24 +1,9 @@
 #+TITLE: The PowerStrike project
 
-#+begin_src
- _   _             __ _                         _            __
-| |_| |__   ___   / _(_)_ __   ___    __ _ _ __| |_    ___  / _|
-| __| '_ \ / _ \ | |_| | '_ \ / _ \  / _` | '__| __|  / _ \| |_
-| |_| | | |  __/ |  _| | | | |  __/ | (_| | |  | |_  | (_) |  _|
- \__|_| |_|\___| |_| |_|_| |_|\___|  \__,_|_|   \__|  \___/|_|
-  __                                         _     _
- / _| __ _  ___ ___   _ __  _   _ _ __   ___| |__ (_)_ __   __ _
-| |_ / _` |/ __/ _ \ | '_ \| | | | '_ \ / __| '_ \| | '_ \ / _` |
-|  _| (_| | (_|  __/ | |_) | |_| | | | | (__| | | | | | | | (_| |
-|_|  \__,_|\___\___| | .__/ \__,_|_| |_|\___|_| |_|_|_| |_|\__, |
-                     |_|                                   |___/
-#+end_src
-
-
 #+CAPTION: powerstrike
-[[https://github.com/Prutserdt/PowerStrike/raw/master/powerstrike.gif]]
+https://github.com/Prutserdt/PowerStrike/blob/main/powerstrike.gif
 
-* 🥊Welcome!
+* 🥊Welcome to the fine art of face punching!
 Somehow you reached this site. Contratulations👍. We are developing a system to measure and transmit power output from MMA/boxing gloves. This is very interesting information that is currently not used in striking sports as MMA, boxing and kickboxing. At this moment we are in pre-alpha stage and focussing on a robust way to add pressure sensors to MMA gloves and show live output to a mobile phone with some gamification of course, otherwise it would be too boring.
 
 ** 🥊Status of our project
